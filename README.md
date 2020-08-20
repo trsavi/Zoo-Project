@@ -1,4 +1,4 @@
-# Zoo-Project
+# Zoo_Project
 
 
 Original description for this project is on this link: http://archive.ics.uci.edu/ml/datasets/Zoo
